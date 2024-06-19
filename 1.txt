@@ -6,3 +6,5 @@ the git commit sends files to repo
 the git push pushes them to github  
 // git add 1.txt , 2.txt ,, git add . adds all files
 // git commit -m "message"
+git log shows the history of commits
+atomic commits -- chote chote steps ke baad commit krde
