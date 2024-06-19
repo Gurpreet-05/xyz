@@ -39,3 +39,4 @@ now we can use tree id in many funcns to see tree , blob or commit -- get ls-tre
 git show <blob-id>
 git cat-file -p <commit-id>
 ihdn -- changes in bug-fix
+
