@@ -8,3 +8,4 @@ the git push pushes them to github
 // git commit -m "message"
 git log shows the history of commits
 atomic commits -- chote chote steps ke baad commit krde
+// git config --global core.editor "code --wait" -- changes editor from whim to vscode
