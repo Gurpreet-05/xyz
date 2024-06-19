@@ -1,0 +1,8 @@
+to send files to staging area , git add is used
+write - add - commit
+git init se working directry choose hui -- our is folder one
+then git add se staging area me gyi files
+the git commit sends files to repo
+the git push pushes them to github  
+// git add 1.txt , 2.txt ,, git add . adds all files
+// git commit -m "message"
